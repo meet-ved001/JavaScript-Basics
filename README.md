@@ -1,2 +1,1 @@
-# OnClickEventHandler
- OnClickEventHandler
+JavaScript Basics
